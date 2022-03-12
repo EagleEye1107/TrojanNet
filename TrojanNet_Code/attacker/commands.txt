@@ -1,0 +1,8 @@
+
+
+
+1# delete file
+del mnist.npz
+
+2# rename file
+rename "New.npz" "mnist.npz"
