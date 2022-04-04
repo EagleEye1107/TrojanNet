@@ -1,2 +1,2 @@
 # TrojanNet
-This repository is for educationnal purpose
+This repository is for educational purposes
